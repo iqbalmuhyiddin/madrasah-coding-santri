@@ -34,3 +34,4 @@ Task:
 
 1. Create 4 CV in HTML (don't copy paste) and use different format/template. Use table for each CV [click here](https://www.w3schools.com/html/html_tables.asp)
 2. Learn about style in HTML and apply to CV that you create. [click here](https://www.w3schools.com/html/html_styles.asp)
+3. Download Bootstrap 3.4.0 [Download Here](https://github.com/twbs/bootstrap/releases/download/v3.4.0/bootstrap-3.4.0-dist.zip)
