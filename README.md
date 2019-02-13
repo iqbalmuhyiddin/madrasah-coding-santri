@@ -1,12 +1,12 @@
 # Madrasah Coding - Angkatan 1
 
 - [Madrasah Coding - Angkatan 1](#madrasah-coding---angkatan-1)
-  - [0. Task for Section 1](#0-task-for-section-1)
-  - [1. Section 1 - Why become developer & Basic HTML](#1-section-1---why-become-developer--basic-html)
+  - [Task for Section 1](#task-for-section-1)
+  - [Section 1 - Why become developer & Basic HTML](#section-1---why-become-developer--basic-html)
 
 :bulb: one section / week
 
-## 0. Task for Section 1
+## Task for Section 1
 
 Before our first meet, please install these in your device:
 
@@ -22,7 +22,7 @@ How to Install VS Code extensions
 :bulb: If you have small RAM, you can use firefox quantum
 [download here](https://www.mozilla.org/id/firefox/)
 
-## 1. Section 1 - Why become developer & Basic HTML
+## Section 1 - Why become developer & Basic HTML
 
 Content:
 
