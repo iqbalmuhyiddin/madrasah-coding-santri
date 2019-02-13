@@ -28,7 +28,7 @@ Content:
 
 Slide Why become developer: [open here](https://docs.google.com/presentation/d/1JdIY2TV5jlC_nA2XBLxJa6lXU9f0OwNewwvqZJ6PCnU/edit?usp=sharing)
 
-Basic HTML: see folder pertemuan-1
+Basic HTML: see folder section-1
 
 Task:
 
