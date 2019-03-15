@@ -1,0 +1,46 @@
+html {
+  scroll-behavior: smooth;
+}
+
+section {
+  padding: 100px 15%;
+}
+
+.welcome {
+  padding-top: 140px;
+  text-align: center;
+  background-image: url("../img/bg_1.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.welcome * {
+  margin-bottom: 20px;
+}
+
+.me {
+  width: 200px;
+}
+
+.more-about {
+  margin-top: 40px;
+}
+
+.more {
+  background: #3498db;
+  color: white;
+}
+
+.more div {
+  text-align: center;
+}
+
+.more-2 {
+  background: #34495e;
+  color: white;
+}
+
+.social {
+  color: #2c3e50;
+}
