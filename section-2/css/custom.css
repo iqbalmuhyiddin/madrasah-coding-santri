@@ -1,0 +1,67 @@
+.text-red,
+.text-blue {
+  padding: 10px;
+}
+
+.text-red {
+  color: red;
+}
+
+.text-blue {
+  color: blue;
+}
+
+.background-red {
+  background-color: red;
+}
+
+.text-green {
+  color: green;
+}
+.text-big {
+  font-size: 50px;
+}
+.text-center {
+  text-align: center;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+img {
+  width: 50vw;
+}
+
+.img-thumbnail {
+  border-radius: 30px;
+}
+
+#img-1 {
+  width: 100vw;
+}
+
+.judul {
+  font-size: 30px;
+  color: blue;
+  text-align: center;
+  margin: 10px;
+  border: solid 1px black;
+}
+/* 
+      div {
+        
+        padding: 20px;
+        margin: 10px;
+      } */
+
+div,
+span {
+  border: dotted 1px black;
+  background-color: blue;
+  color: white;
+  padding: 10px;
+}
