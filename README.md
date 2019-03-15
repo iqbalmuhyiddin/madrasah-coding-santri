@@ -1,8 +1,12 @@
 # Madrasah Coding - Angkatan 1
 
+Table Of Content
+
 - [Madrasah Coding - Angkatan 1](#madrasah-coding---angkatan-1)
   - [Task for Section 1](#task-for-section-1)
   - [Section 1 - Why become developer & Basic HTML](#section-1---why-become-developer--basic-html)
+  - [Section 2 - Inline Style & CSS](#section-2---inline-style--css)
+  - [Section 3 - Bootstrap part 1](#section-3---bootstrap-part-1)
 
 :bulb: one section / week
 
@@ -35,3 +39,16 @@ Task:
 1. Create 4 CV in HTML (don't copy paste) and use different format/template. Use table for each CV [click here](https://www.w3schools.com/html/html_tables.asp)
 2. Learn about style in HTML and apply to CV that you create. [click here](https://www.w3schools.com/html/html_styles.asp)
 3. Download Bootstrap 3.4.0 [Download Here](https://github.com/twbs/bootstrap/releases/download/v3.4.0/bootstrap-3.4.0-dist.zip)
+
+## Section 2 - Inline Style & CSS
+
+---
+
+## Section 3 - Bootstrap part 1
+
+Task:
+
+1. Create web profile of yourself like in the image below use html and bootstrap 3.x . If you want to improve is a plus.
+2. See bootstrap documentation here [click here](https://getbootstrap.com/docs/3.4/)
+
+![task](./img/03-task3.png)
