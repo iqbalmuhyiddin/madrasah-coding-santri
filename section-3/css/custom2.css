@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 section {
   padding: 100px 15%;
 }
@@ -5,6 +9,10 @@ section {
 .welcome {
   padding-top: 140px;
   text-align: center;
+  background-image: url("../img/bg_1.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 /* style for all element inside .welcome */
@@ -20,4 +28,9 @@ section {
 
 .more-about {
   margin-top: 40px;
+}
+
+.more {
+  background: #3498db;
+  color: white;
 }
