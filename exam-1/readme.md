@@ -16,6 +16,8 @@ Click the link below to take the test:
 
 [Go to the test](https://forms.gle/EjLK24MXHKtHVLiC9)
 
+:bulb: Deadline: 14 April 2019
+
 ## Practice Test
 
 > Practice test is still not avaliable. I'll let you know when it's ready
